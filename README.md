@@ -1,0 +1,2 @@
+# LinkedIn
+LinkedIn ödev
